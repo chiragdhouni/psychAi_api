@@ -1,0 +1,9 @@
+pinecone-client
+openai
+tiktoken
+nest_asyncio
+# os
+# pinecone
+fastapi~=0.103.1
+langchain==0.0.142
+uvicorn~=0.23.2
